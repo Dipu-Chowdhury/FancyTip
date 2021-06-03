@@ -40,7 +40,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 A challenge I faced while creating this project was understaing the Xcode framework and how the outlets were organized on the controller. When I deleted a previosuly made outlet, my whole code shut down and did not work. I spent a lot of time reviewing the systems framework to better understand how to erase outlets properly without running into issues with the rest of the code.
 
-Another challenge I faced was fully understanding and correctly implementing the UserDefaults functions. I was able to later do this by analyzing other professional coders work on their iOS apps and understand why implemented each line in their code. Doing so gave me a better understanding of all the functions to create the project you see above.
+Another challenge I faced was fully understanding and correctly implementing the UserDefaults functions. I was able to later do this by analyzing other professional coders work on their iOS apps and understand why they implemented each line of their code. Doing so gave me a better understanding of all the functions to create the project you see above.
 
 ## License
 
